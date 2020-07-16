@@ -1,8 +1,9 @@
 body{
     text-align: center;
 }
-input{
+#text{
     margin: 10px;
     width: 600px;
     height: 35px;
 }
+
